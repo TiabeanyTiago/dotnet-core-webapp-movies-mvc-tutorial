@@ -6,6 +6,7 @@ ASP.NET Core MVC - Movies Tutorial from Microsoft Learn (https://learn.microsoft
 As well adding any customization I feel like adding.
 
 <ul>
+<li>27/12/2023: Added Seed Data. Added Search string and Genre Filter</li>
 <li>27/12/2023: Added EntityFramework with Migration on the Project. Using SQLite for development environments</li>
 <li>27/12/2023: Added Movie Model and Scaffolded the views and controller</li>
 <li>26/12/2023: Added HelloWorld Index View</li>
