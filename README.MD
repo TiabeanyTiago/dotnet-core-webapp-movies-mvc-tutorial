@@ -6,6 +6,8 @@ ASP.NET Core MVC - Movies Tutorial from Microsoft Learn (https://learn.microsoft
 As well adding any customization I feel like adding.
 
 <ul>
+<li>27/12/2023: Added EntityFramework with Migration on the Project. Using SQLite for development environments</li>
+<li>27/12/2023: Added Movie Model and Scaffolded the views and controller</li>
 <li>26/12/2023: Added HelloWorld Index View</li>
 <li>26/12/2023: Added HelloWorldController with Index and Welcome(name, ID) methods</li>
 <li>18/12/2023: Created new MVC project for the tutorial</li>
